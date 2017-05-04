@@ -13,26 +13,28 @@
 * go
 * javascript
 
-## Frameworks
+## Frameworks and libs
 * python:
  * flask
  * scapy
+ * logging
+ * pjsua2
 * tarantool
 * node.js
 
 ## VoIP stuff
 
-### Tools:
+### Traffic tools:
 * ngrep
 * sngrep
-* wireshark
+* wireshark/tshark
 * homer
 * sipp
 * sipsak
 
-### Frameworks and Libs
+### SIP frameworks and libs
 * nksip (erlang)
-* pjsip (c++)
+* pjsip (c++; python bindings;)
 * spandsp
 
 ### Server-side applications
@@ -40,6 +42,4 @@
 * asterisk
 * yate
 * freeswitch
-
- memory DB
 * tarantool
