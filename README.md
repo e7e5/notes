@@ -24,10 +24,11 @@
 
 ## VoIP stuff
 
-### Traffic tools:
+### Traffic tools
 * ngrep
 * sngrep
 * wireshark/tshark
+* scapy
 * homer
 * sipp
 * sipsak
@@ -43,3 +44,4 @@
 * yate
 * freeswitch
 * tarantool
+* nksip
