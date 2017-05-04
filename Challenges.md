@@ -3,4 +3,4 @@
 * tarantool-based SIP-registrar
 * tarantool app as a helper for ipvs
 * kamailio and ipvs dispatcher
-* in-kernel SSL offload
+* in-kernel SSL offload and ipvs
