@@ -19,6 +19,7 @@
 * sngrep
 * homer
 * sipp
+* sipsak
 
 ### Frameworks and Libs
 * nksip (erlang)
