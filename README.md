@@ -1,22 +1,31 @@
-# notes
+# Engineer's lovely tools
 
-## Tools
+## Everyday tools
 * tmux
 * vim
+* ansible
 * monit
 
 ## OPS Languages
 * python
 * bash (*sh)
-* lua
+* lua/jit: because of good embeddable language (Tarantool; Asterisk; Kamailio; Nginx) and good performance
 * go
 * javascript
+
+## Frameworks
+* python:
+ * flask
+ * scapy
+* tarantool
+* node.js
 
 ## VoIP stuff
 
 ### Tools:
 * ngrep
 * sngrep
+* wireshark
 * homer
 * sipp
 * sipsak
@@ -32,5 +41,5 @@
 * yate
 * freeswitch
 
-## In memory DB
+ memory DB
 * tarantool
