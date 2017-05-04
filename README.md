@@ -3,6 +3,7 @@
 ## Tools
 * tmux
 * vim
+* monit
 
 ## OPS Languages
 * python
