@@ -36,10 +36,10 @@
 
 ### SIP frameworks and libs
 * nksip (erlang)
-* pjsip (c++; python bindings;)
+* pjsip/pjsua2 (c++; python bindings)
 * spandsp
 
-### Server-side applications
+### Open-source server-side applications
 * kamailio
 * asterisk
 * yate
