@@ -39,6 +39,7 @@
 * nksip (erlang)
 * pjsip/pjsua2 (c++; python bindings)
 * spandsp
+* jssip
 
 ### Open-source server-side applications
 * kamailio
