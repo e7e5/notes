@@ -20,6 +20,7 @@
   * logging
   * pjsua2
   * pyro4
+  * ipython
 * tarantool
 * node.js
 
